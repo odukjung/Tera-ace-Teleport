@@ -2,6 +2,8 @@
 Only Ace Dungeon from seraphinush
 Main Link : https://github.com/seraphinush-gaming/cmd-slash 
 ```
+# Opcode for EU
+Link : https://github.com/odukjung/Tera-Def-Op-code
 
 ## Usage
 - `ace` · `ㅁㅊㄷ` · `시던`
